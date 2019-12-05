@@ -6,7 +6,9 @@ h1 {
 	font-size: 60px;
 	font-weight: 800;
 }
-
+article {
+	color: #F8FF00;
+}
 li {
   display: inline;
 }
